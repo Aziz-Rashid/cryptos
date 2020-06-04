@@ -2,10 +2,6 @@ import React, { Component } from 'react'
 import './body.css'
 import Pic from './bg-2.png'
 export default class Body extends Component {
-    constructor(){
-        super();
-
-    }
     render() {
 
         return (

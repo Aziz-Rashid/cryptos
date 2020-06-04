@@ -19,7 +19,7 @@ export default class Icons extends Component {
                         <p>Cras vitae turpis lacinia, lacinia lacus non, fermentum nisi. Donec et sollicitudin est, in euismod erat. Ut at erat et arcu pulvinar cursus a eget nisl. Cras vitae turpis lacinia, lacinia lacus non, fermentum.</p>
                         <button>Read More</button>
                    </div>
-                   <div class="four">
+                   <div className="four">
                         <h3>10% Secure</h3>
                         <p>Cras vitae turpis lacinia, lacinia lacus non, fermentum nisi. Donec et sollicitudin est, in euismod erat. Ut at erat et arcu pulvinar cursus a eget nisl. Cras vitae turpis lacinia, lacinia lacus non, fermentum.</p>
                         <button>Read More</button>

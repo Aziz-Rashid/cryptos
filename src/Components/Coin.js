@@ -6,7 +6,7 @@ export default class Coin extends Component {
         return (
             <div className="im">
                 <div className="coi">
-                <img src={Lo} />
+                <img src={Lo} alt="img"/>
                 </div>
                 <div className="jk">
                 <h3>Let’s change <br /><span>the world</span> together</h3>

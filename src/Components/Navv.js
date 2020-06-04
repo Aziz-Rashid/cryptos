@@ -5,15 +5,15 @@ export default class Navv extends Component {
     render() {
         return (
             <div className="nav">
-                <div class="logo">
+                <div className="logo">
                     <img src={Logo} alt="logo"/>
                 </div>
                 <div className="menu">
-                <a href="#">Home</a>
-                <a href="#">Pages</a>
-                <a href="#">Mega Menu</a>
-                <a href="#">Currencies</a>
-                <a href="#">Contact</a>
+                <a href="www.google.com">Home</a>
+                <a href="www.google.com">Pages</a>
+                <a href="www.google.com">Mega Menu</a>
+                <a href="www.google.com">Currencies</a>
+                <a href="www.google.com">Contact</a>
                 </div>
                 <div className="in">
                     <input type="text" placeholder="News Letter"/>
