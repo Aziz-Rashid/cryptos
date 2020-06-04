@@ -32,4 +32,4 @@ jobs:
     - name: install surge
       run: npm install --global surge
     - name: run surge
-      run: surge ./build corona-app-aziz.surge.sh --token ${{secrets.TOKEN}}
+      run: surge ./build cryptos-aziz.surge.sh --token ${{secrets.TOKEN}}
