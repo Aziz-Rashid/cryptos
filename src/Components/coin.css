@@ -1,0 +1,42 @@
+.im{
+    display: flex;
+    margin-top: 150px;
+}
+.jk h3{
+    font-size: 60px;
+    font-weight: 50;
+    padding-bottom: 30px;
+}
+.jk h3 span{
+    font-weight: 500;
+}
+.jk h5{
+    width: 600px;
+    font-size: 30px;
+    font-weight: 20;
+    padding-bottom: 30px;
+    text-align: justify;
+}
+.jk p{
+    width: 600px;
+    font-size: 20px;
+    opacity: 0.4;
+    text-align: justify;
+    padding-bottom: 50px;
+}
+.coi{
+    margin-top: 100px;
+}
+.jk button{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(226, 235, 235);
+    border: 0;
+    border-bottom: 2px solid orange;
+    font-size: 15px;
+    font-weight: bold;
+}
+.jk button:hover{
+    background-color: black;
+    color: white;
+}

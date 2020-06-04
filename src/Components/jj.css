@@ -1,0 +1,11 @@
+.t{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.t span{
+    color: orange;
+    font-size: 30px;
+}

@@ -1,0 +1,40 @@
+.nav-main{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    background-color: rgb(54, 46, 46);
+    font-size: 12px;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: orange;
+}
+.nav-right{
+    display: flex;
+    line-height: 60px;
+    padding-right: 30px;
+    padding-left: 50px;
+    color: white;
+}
+.nav-left{
+    line-height: 60px;
+    margin-left: 70px;
+    color: white;
+}
+.nav-left span{
+    color: orange;
+}
+.log{
+    padding-right: 30px;
+}
+.nav-right p{
+    padding-right: 50px;
+}
+.o{
+    color: orange;
+    font-size: 30px;
+}

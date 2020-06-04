@@ -1,0 +1,49 @@
+.subs{
+   
+    width: 1100px;
+    height: 350px;
+    background-color: orange;
+    margin: auto;
+    margin-top: 100px;
+}
+.subs h2{
+    padding-top: 80px;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 100;
+    padding-bottom: 30px;
+}
+.subs h2 span{
+    font-weight: 500;
+}
+.subs p{
+    
+    /* width: 800px; */
+    /* text-align: center; */
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    font-size: 17px;
+    padding-bottom: 50px;
+}
+.subs input{
+    /* padding-left: 700px; */
+    /* margin: auto; */
+    margin-left: 100px;
+    width: 800px;
+    height: 50px;
+    border: none;
+    /* border-radius: 5px; */
+    padding-left: 50px;
+}
+.subs input:focus{
+    outline: none;
+    border-radius: 20px;
+}
+.subs button{
+    width: 100px;
+    height: 50px;
+    border:none;
+    color: orange;
+    background-color: white;
+}

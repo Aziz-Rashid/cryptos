@@ -1,0 +1,44 @@
+.nav{
+    height: 140px;
+    /* background-color: gray; */
+    display: flex;
+    justify-content: space-around;
+    color: black;
+    text-transform: capitalize;
+}
+.logo{
+    margin-top: 10px;
+    background-repeat: no-repeat;
+    line-height: 140px;
+}
+.menu a{
+    padding-right: 40px;
+    line-height: 140px;
+    color: black;
+   
+}
+.menu a:hover{
+    color: orange;
+}
+.in{
+    line-height: 140px;
+}
+.in input {
+    height: 30px;
+    border: none;
+    font-style: italic;
+}
+.in input:focus{
+    outline: none;
+}
+.in button{
+    height: 30px;
+    width: 80px;
+    border: none;
+    color: black;
+    border-bottom:2px solid orange;
+}
+.in button:hover {
+    background-color: black;
+    color: orange;
+}

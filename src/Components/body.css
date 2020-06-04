@@ -1,0 +1,47 @@
+.co{
+    
+    background-color: rgb(2, 2, 110);
+    display: flex;
+    justify-content: space-around;
+    height: 800px;
+    text-transform: capitalize;
+    background-attachment: fixed;
+}
+.body-pic img{
+    width: 400px;
+    padding-right: 50px;
+}
+.body-pic{
+    margin-top: 200px;
+}
+.bodytxt h4{
+    margin-top: 200px;
+    /* margin-left: 20px; */
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+.bodytxt span{
+    color: orange;
+}
+.bodytxt h6{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 50px;
+}
+.bodytxt button{
+    margin-top: 30px;
+    width: 150px;
+    height: 50px;
+    margin-left: 30px;
+    border: none;
+    font-weight: bold;
+    border-bottom: 2px solid orange;
+    font-size: 15px;
+}
+.bodytxt button:hover{
+    background-color: rgb(92, 86, 86);
+    color: white;
+}

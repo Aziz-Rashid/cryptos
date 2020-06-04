@@ -1,0 +1,104 @@
+.row{
+    display: flex;
+    /* text-align: justify; */
+    justify-content: space-around;
+}
+.row div{
+    width: 22%;
+    padding: 20px;
+    /* border: 1px solid red; */
+    background-color: rgb(226, 235, 235);
+    transition-delay: 0.1s;
+    
+}
+.one:hover{
+    background-color: orange;
+}
+ .one h3{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 25px;
+    font-weight: 100;
+} 
+.one p{
+    width: 80%;
+    word-spacing: 3px;
+    padding-left: 30px;
+    text-align: center;
+    padding-bottom: 80px;
+    opacity: 0.4;
+}
+.one button{
+    width: 100px;
+    height: 50px;
+    margin-left: 60px;
+}
+
+.two:hover{
+    background-color: orange;
+}
+ .two h3{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 25px;
+    font-weight: 100;
+} 
+.two p{
+    width: 80%;
+    word-spacing: 3px;
+    padding-left: 30px;
+    text-align: center;
+    padding-bottom: 35px;
+    opacity: 0.4;
+}
+.two button{
+    width: 100px;
+    height: 50px;
+    margin-left: 60px;
+}
+
+.three:hover{
+    background-color: orange;
+}
+ .three h3{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 25px;
+    font-weight: 100;
+} 
+.three p{
+    width: 80%;
+    word-spacing: 3px;
+    padding-left: 30px;
+    text-align: center;
+    padding-bottom: 35px;
+    opacity: 0.4;
+}
+.three button{
+    width: 100px;
+    height: 50px;
+    margin-left: 60px;
+}
+
+.four:hover{
+    background-color: orange;
+}
+ .four h3{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 25px;
+    font-weight: 100;
+} 
+.four p{
+    width: 80%;
+    word-spacing: 3px;
+    padding-left: 30px;
+    text-align: center;
+    padding-bottom: 80px;
+    opacity: 0.4;
+}
+.four button{
+    width: 100px;
+    height: 50px;
+    margin-left: 60px;
+}
