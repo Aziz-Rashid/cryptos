@@ -9,7 +9,7 @@ export default class Body extends Component {
                 <div className="bodytxt">
                     <h4>Take a step into the <span>crypto world</span></h4>
                     <h6>Cras vitae turpis lacinia, lacinia lacus non, fermentum nisi. Donec et sollicitudin est, in euismod erat. Ut at erat et arcu pulvinar</h6>
-                    <button>Read More</button>
+                    <button>Read more</button>
                 </div>
                 <div className="body-pic">
                      <img onClick={this.handler} src={Pic} alt="coint pics"/>
